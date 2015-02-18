@@ -1,2 +1,6 @@
 hogehoge
+<<<<<<< Updated upstream
 hogehoge
+=======
+usugi pabupabu
+>>>>>>> Stashed changes
